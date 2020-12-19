@@ -1,3 +1,10 @@
+# custom additions for a vex project
+.DS_store
+build/
+makefile
+compile_commands.json
+
+# C++ template from github below
 # Prerequisites
 *.d
 
